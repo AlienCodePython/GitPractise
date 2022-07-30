@@ -4,6 +4,8 @@ public class HelloWorld{
 
         System.out.println("Hello World");
         System.out.println(name);
+        String name2 = "git practice";
+        System.out.println(name2);
 
 
     }
